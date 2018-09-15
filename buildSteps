@@ -1,0 +1,32 @@
+Input:
+biometric.
+name.
+password.
+
+
+
+Output:
+ability to register transactions.
+Get RealTime Price for entities.
+
+
+
+Algorithm:
+Gossip for communication between nodes.
+Hashgraph to hold the details for transaction.
+
+
+Code:
+implementation uisng:
+Android app for biometric registration.
+django for backend.
+angular for frontend.
+Neo4j for database.
+unit testing.
+
+Testing:
+regression,
+positive,
+negative,
+SIT,
+pseudo UAT. beta release.
